@@ -1,12 +1,12 @@
 p {
-    font-family: 'verdana', 'DejaVu Sans', 'sans-serif';
+    font-family:verdana, dejavu sans, sans-serif;
     background-color:#ff3a3a80
 
 }
 #no2 {
 font-size:36px;
 color:#0000ff;
-
+font-family: cambria, sans-serif, times new roman;
 }
 .no3 {
     font-size: 24px;
